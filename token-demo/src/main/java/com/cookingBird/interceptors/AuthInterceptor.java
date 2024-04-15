@@ -20,6 +20,7 @@ import java.util.stream.Collectors;
 
 @Component
 public class AuthInterceptor implements HandlerInterceptor {
+    public final String NAME = "com.cookingBird.interceptors.token.AuthInterceptor";
 
     private final TestController testController;
 

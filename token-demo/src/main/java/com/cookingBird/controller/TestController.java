@@ -58,6 +58,7 @@ public class TestController {
     @GetMapping("/info")
     @Auth("admin")
     public UserVO getInfo(HttpServletRequest request) {
+
         String token = request.getHeader(TokenUtil.TOKEN_HEADER);
         if (Objects.isNull(token)) {
             throw new RuntimeException("无权限");

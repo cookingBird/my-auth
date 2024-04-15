@@ -1,0 +1,8 @@
+com\cookingBird\service\SessionService.class
+com\cookingBird\util\impl\DefaultSessionIdGenerator.class
+com\cookingBird\Main.class
+com\cookingBird\util\SessionIdGenerator.class
+com\cookingBird\service\impl\DefaultSessionService.class
+com\cookingBird\interceptors\AuthInterceptor.class
+com\cookingBird\model\Session.class
+com\cookingBird\annotations\Auth.class

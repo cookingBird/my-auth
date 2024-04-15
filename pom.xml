@@ -16,6 +16,9 @@
         <module>session-demo</module>
         <module>cookie-demo</module>
         <module>token-demo</module>
+        <module>core</module>
+        <module>auth-spring-boot-starter</module>
+        <module>auth-spring-boot-configure</module>
     </modules>
 
     <properties>
