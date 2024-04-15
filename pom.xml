@@ -15,6 +15,7 @@
     <modules>
         <module>session-demo</module>
         <module>cookie-demo</module>
+        <module>token-demo</module>
     </modules>
 
     <properties>

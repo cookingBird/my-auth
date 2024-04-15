@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/cookie-demo/cookie-demo.iml" filepath="$PROJECT_DIR$/cookie-demo/cookie-demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/my-auth.iml" filepath="$PROJECT_DIR$/.idea/my-auth.iml" />
       <module fileurl="file://$PROJECT_DIR$/session-demo/session-demo.iml" filepath="$PROJECT_DIR$/session-demo/session-demo.iml" />
     </modules>
   </component>
